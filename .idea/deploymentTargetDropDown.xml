@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.freday">
+        <State />
+      </entry>
+      <entry key="app.friday">
+        <State />
+      </entry>
+      <entry key="fraday">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Small_Phone_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-02T02:36:24.694053Z" />
+        </State>
+      </entry>
+      <entry key="hellokitty">
+        <State />
+      </entry>
+      <entry key="layout">
+        <State />
+      </entry>
+      <entry key="reting">
+        <State />
+      </entry>
+      <entry key="second2">
+        <State />
+      </entry>
+      <entry key="wednesday">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
